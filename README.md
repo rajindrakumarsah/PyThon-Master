@@ -71,3 +71,4 @@ characters “!”, words “rabbit”, names “Paris”, sentences
  single quotes ('...') or double quotes ("...") with the
   same result [2].
 
+This is Simple Notes !! , Full Notes are coming soon !
